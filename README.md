@@ -1,6 +1,7 @@
 # Latest OBS Studio for old version of Windows
 OBS 29.0.2 ported/patched for Windows 7/8/8.1 <br>
-![Screenshot 2024-05-12 225416](https://github.com/TK50P/obs29patched/assets/127497974/855dc448-dfae-48ef-bc1f-25c455c53742)
+![Screenshot 2024-05-12 225416](https://github.com/TK50P/obs29patched/assets/127497974/855dc448-dfae-48ef-bc1f-25c455c53742) <br>
+**Note This patched version is *64-bit Only.* since 27.2 no longer supports 32-bit windows.**
 
 
 - How did you patched it? <br>
